@@ -1,0 +1,7 @@
+cvzone 
+mediapipe
+cv2
+google-genai
+streamlit 
+PIL
+numpy
